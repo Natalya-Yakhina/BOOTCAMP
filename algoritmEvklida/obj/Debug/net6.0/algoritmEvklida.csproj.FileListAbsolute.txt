@@ -1,0 +1,15 @@
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\bin\Debug\net6.0\algoritmEvklida.exe
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\bin\Debug\net6.0\algoritmEvklida.deps.json
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\bin\Debug\net6.0\algoritmEvklida.runtimeconfig.json
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\bin\Debug\net6.0\algoritmEvklida.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\bin\Debug\net6.0\algoritmEvklida.pdb
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\algoritmEvklida.csproj.AssemblyReference.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\algoritmEvklida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\algoritmEvklida.AssemblyInfoInputs.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\algoritmEvklida.AssemblyInfo.cs
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\algoritmEvklida.csproj.CoreCompileInputs.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\algoritmEvklida.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\refint\algoritmEvklida.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\algoritmEvklida.pdb
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\algoritmEvklida.genruntimeconfig.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\algoritmEvklida\obj\Debug\net6.0\ref\algoritmEvklida.dll
