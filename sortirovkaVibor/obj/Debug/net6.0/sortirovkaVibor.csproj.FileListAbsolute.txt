@@ -1,0 +1,15 @@
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\sortirovkaVibor.csproj.AssemblyReference.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\sortirovkaVibor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\sortirovkaVibor.AssemblyInfoInputs.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\sortirovkaVibor.AssemblyInfo.cs
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\sortirovkaVibor.csproj.CoreCompileInputs.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\bin\Debug\net6.0\sortirovkaVibor.exe
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\bin\Debug\net6.0\sortirovkaVibor.deps.json
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\bin\Debug\net6.0\sortirovkaVibor.runtimeconfig.json
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\bin\Debug\net6.0\sortirovkaVibor.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\bin\Debug\net6.0\sortirovkaVibor.pdb
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\sortirovkaVibor.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\refint\sortirovkaVibor.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\sortirovkaVibor.pdb
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\sortirovkaVibor.genruntimeconfig.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\sortirovkaVibor\obj\Debug\net6.0\ref\sortirovkaVibor.dll
