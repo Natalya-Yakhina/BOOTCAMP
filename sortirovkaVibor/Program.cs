@@ -40,7 +40,7 @@ for (int i = 0; i < n; i++)
     array[i] = Convert.ToInt32(Console.ReadLine());
 }
 Console.WriteLine();
-Console.WriteLine("Начальный массив [" + string.Join(", ", array) + "]");
+Console.WriteLine("Начальный массив [" + string.Join(", ", array) + "]"); // Join - соединяет, красивый вывод
 // Сортировка массива
 for (int i = 0; i < n - 1; i++) // n - 1 - размер массива
 {
@@ -56,3 +56,17 @@ for (int i = 0; i < n - 1; i++) // n - 1 - размер массива
     array[i] = temp;
 }
 Console.WriteLine("Конечный массив [" + string.Join(", ", array) + "]");
+
+
+// сортировка по длинне массива
+
+char[] array = new char[5]; // char - хранит один символ
+for (int i = 0; i < 5; i++)
+{
+    array[i] = 'a'; //;
+}
+Console.Write("[" + + string.Join(", ", array) + "]");
+/*
+приВет // будет больше, позиция буквы имеет значение
+прИвет
+*/
