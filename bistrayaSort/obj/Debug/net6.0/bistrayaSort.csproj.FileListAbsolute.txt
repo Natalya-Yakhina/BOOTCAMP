@@ -1,0 +1,15 @@
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\bistrayaSort.csproj.AssemblyReference.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\bistrayaSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\bistrayaSort.AssemblyInfoInputs.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\bistrayaSort.AssemblyInfo.cs
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\bistrayaSort.csproj.CoreCompileInputs.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\bin\Debug\net6.0\bistrayaSort.exe
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\bin\Debug\net6.0\bistrayaSort.deps.json
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\bin\Debug\net6.0\bistrayaSort.runtimeconfig.json
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\bin\Debug\net6.0\bistrayaSort.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\bin\Debug\net6.0\bistrayaSort.pdb
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\bistrayaSort.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\refint\bistrayaSort.dll
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\bistrayaSort.pdb
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\bistrayaSort.genruntimeconfig.cache
+C:\Users\Яхина Н А\Desktop\Буткемп\bootcamp\bistrayaSort\obj\Debug\net6.0\ref\bistrayaSort.dll
